@@ -1,3 +1,6 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
 /*banner css start*/
 .banner-bg{
@@ -26,6 +29,85 @@
    background-color: #FF589B;
 }
 
-
-
 /*banner css end*/
+
+/* categories  css start*/
+
+
+.categories{
+
+    margin-top: 90px;
+    margin-bottom: 70px;
+}
+.categories h1{
+
+    color: white;
+}
+
+.categories img{
+
+    width: 130px;
+}
+
+
+.cat1,.cat2,.cat3{
+   padding: 10px 30px;
+   border-radius: 10px;
+   
+   
+}
+
+.cat1{
+
+    background-image: linear-gradient(45deg, #ff8000 0%, orange 100%);
+}
+
+.cat2{
+    background-image: linear-gradient(45deg, orchid 0%, #FF0066 100%); 
+}
+
+.cat3{
+
+    background-image: linear-gradient(45deg, lightblue 0%, blue 100%);
+}
+
+
+/*categories  css end*/
+
+
+/*card  css start*/
+
+.card{
+    
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+    text-align: center;;
+}
+
+
+/*card  css end*/
+
+
+#Backpack{
+
+    margin-top: 50px;
+}
+
+#subscribe{
+
+    height: 300px;
+    background-color: #FEEAE9;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+#subscribe h6{
+
+    color: gray;
+}
+
+#footer{
+
+    height: 100px;
+}

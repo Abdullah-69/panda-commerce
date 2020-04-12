@@ -1,0 +1,31 @@
+
+/*banner css start*/
+.banner-bg{
+   background-color: #FEEAE9;
+   border-radius: 10px;;
+}
+
+.navbar{
+
+    margin-bottom: 72px;;
+}
+
+.carousel-item{
+
+    padding: 20px 40px;
+}
+
+.price{
+
+    color: #FF136F;
+}
+.buy-button{
+   padding: 10px 40px;
+   border-radius: 11px;
+   color: white;
+   background-color: #FF589B;
+}
+
+
+
+/*banner css end*/
